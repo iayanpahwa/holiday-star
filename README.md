@@ -1,6 +1,6 @@
 holiday-star
 
-![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg)
+![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.jpg)
 
 [balena](https://balena.io) ❤️ [adafruitIO](https://io.adafruit.com) 
 ## Introduction
@@ -43,3 +43,4 @@ The following [Device Configuration](https://www.balena.io/docs/learn/manage/con
 | ADAFRUIT_IO_USERNAME                  | username of your adafruitIO account                                                       |
 | FEED_ID                               | name of the feed you created on adafruitIO                                                |
 
+![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg)
