@@ -14,7 +14,7 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 - Micro-USB cable
 - Power supply(s)
 
-```Danger Note``` : Powering LED strip directly from the GPIO of Pi can damage the board, refer to [this](https://learn.adafruit.com/neopixels-on-raspberry-pi) guide by adafruit on how to correctly power the neopixel strip and make it work with with Raspberry Pi .
+```Danger Note``` : Powering LED strip directly from the GPIO of Pi can damage the board, refer to [this](https://learn.adafruit.com/neopixels-on-raspberry-pi) guide by adafruit on how to correctly power the neopixel strip and make it work with Raspberry Pi .
 
 ## Software required
 
