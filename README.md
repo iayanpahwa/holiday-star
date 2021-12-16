@@ -14,7 +14,7 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 - Micro-USB cable
 - Power supply(s)
 
-```Danger Note``` : Powering LED strip directly from the GPIO of Pi can damage the board, refer to [this](https://learn.adafruit.com/neopixels-on-raspberry-pi) guide by adafruit on how to correctly power the neopixel strip and make it with with Raspberry Pi .
+```Danger Note``` : Powering LED strip directly from the GPIO of Pi can damage the board, refer to [this](https://learn.adafruit.com/neopixels-on-raspberry-pi) guide by adafruit on how to correctly power the neopixel strip and make it work with with Raspberry Pi .
 
 ## Software required
 
@@ -26,7 +26,7 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 
 You can deploy this app to a new balenaCloud fleet in one click using the button below:
 
-[![](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/iayanpahwa/holiday-star.git)
+[![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/iayanpahwa/holiday-star)
 
 Or, you can create a fleet in your balenaCloud dashboard and `balena push` this code to it, the traditional way.
 
