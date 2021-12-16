@@ -1,6 +1,6 @@
 holiday-star
 
-![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.jpg)
+![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.png)
 
 [balena](https://balena.io) ❤️ [adafruitIO](https://io.adafruit.com) 
 ## Introduction
