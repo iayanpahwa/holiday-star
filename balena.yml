@@ -34,7 +34,7 @@ data:
     - BRIGHTNESS: 0.3
     - ADAFRUIT_IO_KEY: 
     - ADAFRUIT_IO_USERNAME:
-    - FEED_ID:
+    - FEED_ID: rgb
   defaultDeviceType: raspberrypi4-64
   supportedDeviceTypes:
     - raspberry-pi
