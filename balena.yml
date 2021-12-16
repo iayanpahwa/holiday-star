@@ -1,0 +1,43 @@
+name: holiday-star
+type: sw.application
+joinable: false
+description: >-
+  control neopixel lights connected with balena edge device using adafruitIO
+post-provisioning: >-
+  ## Usage instructions
+
+  **Application download**
+
+  Once you power up your device you'll need to allow some time for it to
+  download the application, this typically takes 5-8 minutes but it can take
+  more depending on your internet connection and what device you are using.
+
+  **Usage**
+
+  After the download is completed user need to add certain env variables using 
+  balenaCloud dashboard - API key and username obtained from adafruitIO
+  and num of LEDs in strip and prefered brighness as well.
+
+assets:
+  repository:
+    type: blob.asset
+    data:
+      url: 'https://github.com/iayanpahwa/holiday-star.git'
+  logo:
+    type: blob.asset
+    data:
+      url: >-
+        https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg
+data:
+  applicationEnvironmentVariables:
+    - NUM_PIXELS: 60
+    - BRIGHTNESS: 0.3
+    - ADAFRUIT_IO_KEY: 
+    - ADAFRUIT_IO_USERNAME:
+    - FEED_ID:
+  defaultDeviceType: raspberrypi4-64
+  supportedDeviceTypes:
+    - raspberry-pi
+    - raspberrypi0-2w-64
+    - raspberrypi4-64
+    - fincm3
