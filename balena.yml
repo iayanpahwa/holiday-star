@@ -27,7 +27,7 @@ assets:
     type: blob.asset
     data:
       url: >-
-        https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg
+        https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.png
 data:
   applicationEnvironmentVariables:
     - NUM_PIXELS: 60
