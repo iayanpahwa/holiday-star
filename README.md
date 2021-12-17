@@ -16,6 +16,8 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 
 ```Danger Note``` : Powering LED strip directly from the GPIO of Pi can damage the board, refer to [this](https://learn.adafruit.com/neopixels-on-raspberry-pi) guide by adafruit on how to correctly power the neopixel strip and make it work with Raspberry Pi .
 
+Check complete build logs on balenaForums [here](https://forums.balena.io/t/iot-christmas-star-balena-adafruitio-build-logs/350567)
+
 ## Software required
 
 - balenaCloud account (free)
