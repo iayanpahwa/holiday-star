@@ -1,6 +1,6 @@
 holiday-star
 
-![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.png)
+![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.png)
 
 [balena](https://balena.io) ❤️ [adafruitIO](https://io.adafruit.com) 
 ## Introduction
@@ -9,7 +9,7 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 
 **Watch the video tutorial by clicking the image below**
 
-[![Video](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.png)](https://www.youtube.com/watch?v=x6-vYdkJntE)
+[![Video](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/star.png)](https://www.youtube.com/watch?v=x6-vYdkJntE)
 
 --------------------
 ## Hardware required
