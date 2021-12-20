@@ -9,7 +9,7 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 
 **Watch the video tutorial by clicking the image below**
 
-[![Video](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg)](https://www.youtube.com/watch?v=x6-vYdkJntE)
+[![Video](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.png)](https://www.youtube.com/watch?v=x6-vYdkJntE)
 
 --------------------
 ## Hardware required
