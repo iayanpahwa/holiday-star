@@ -6,6 +6,12 @@ holiday-star
 ## Introduction
 
 A DiY holiday project to demonstrate how you can send data from adafruitIO cloud to a balena edge device 
+
+**Watch the video tutorial by clicking the image below**
+
+[![Video](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg)](https://www.youtube.com/watch?v=x6-vYdkJntE)
+
+--------------------
 ## Hardware required
 
 - A Raspberry Pi computer 
@@ -18,19 +24,26 @@ A DiY holiday project to demonstrate how you can send data from adafruitIO cloud
 
 Check complete build logs on balenaForums [here](https://forums.balena.io/t/iot-christmas-star-balena-adafruitio-build-logs/350567)
 
+--------------------
 ## Software required
 
 - balenaCloud account (free)
 - adafruitIO account (free)
 - balenaEtcher (optional)(free) - to flash the SD card with balenaOS
 - balenaCLI (optional)(free) - if using balena push to deploy the fleet
+
+--------------------
 ## Deploy a fleet
 
 You can deploy this app to a new balenaCloud fleet in one click using the button below:
 
+
 [![deploy button](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/iayanpahwa/holiday-star)
 
+
 Or, you can create a fleet in your balenaCloud dashboard and `balena push` this code to it, the traditional way.
+
+--------------------
 
 #### Configuring LED strip and adafruitIO cloud credentials 
 
@@ -44,5 +57,3 @@ The following [Device Configuration](https://www.balena.io/docs/learn/manage/con
 | ADAFRUIT_IO_KEY                       | Obtain from adafruitIO account                                                            |
 | ADAFRUIT_IO_USERNAME                  | username of your adafruitIO account                                                       |
 | FEED_ID                               | name of the feed you created on adafruitIO                                                |
-
-![](https://raw.githubusercontent.com/iayanpahwa/holiday-star/master/assets/iot-star.jpg)
